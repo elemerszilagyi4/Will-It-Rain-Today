@@ -5,7 +5,7 @@ MY_LAT = "46.770920"
 MY_LON = "23.589920"
 
 
-API_KEY = "8a580adf2603d3c102f664be261aac74"
+API_KEY = "your API"
 OWM_Endpoint = "https://api.openweathermap.org/data/2.5/onecall"
 
 weather_params = {
